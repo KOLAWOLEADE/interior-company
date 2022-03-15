@@ -5,6 +5,7 @@ body{
 }
 
 h1{
+    background-color: black;
     text-align: center;
     color: white;
 }
@@ -12,20 +13,28 @@ h1{
 .same{
     width: 300px;
     height: 300px;
-    border-radius: 50px;
+    border-radius: 19px;
     border-style: hidden;
 }
 
 .logo{
-    width: 100px;
-    height: 100px;
+    width: 35px;
+    height: 35px;
 }
 
 h2{
+    background-color: black;
     color: white;
 }
 
 li{
     padding: 20px;
     font-weight: bold;
+}
+
+.app{
+    background-color: white;
+    border-radius: 19px;
+    width: 300px;
+    border-style: hidden;
 }
