@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: rgba(137, 43, 226, 0.418);
     margin: 25px;
     padding: 5px;
 }
@@ -10,10 +10,17 @@ h1{
     color: white;
 }
 
-.same{
+#same{
     width: 300px;
     height: 300px;
     border-radius: 19px;
+    border-style: solid;
+}
+
+.same{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
     border-style: hidden;
 }
 
@@ -23,8 +30,10 @@ h1{
 }
 
 h2{
-    background-color: black;
-    color: white;
+    text-align: center;
+    background-color: gold;
+    color: purple;
+    
 }
 
 li{
