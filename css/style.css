@@ -38,3 +38,9 @@ li{
     width: 300px;
     border-style: hidden;
 }
+
+#slogan{
+    color: white;
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
